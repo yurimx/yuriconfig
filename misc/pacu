@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+pacd="/usr/bin/pacman -Syy"
+pacg="/usr/bin/pacman -Su --noconfirm"
+
+echo -e "\033[1mStart\033[0m\n"
+
+if [ $UID -eq 0 ]; then
+  $pacd && $pacg
+else
+  echo -e "You Are \033[47;31mNOT ROOT\033[0m! Please Use \033[47;31m\"sudo pacu\"\033[0m"
+  exit 1
+fi
+
+echo ""
+echo -e "\033[1mCompleted\033[0m"

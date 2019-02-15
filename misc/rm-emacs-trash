@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+emacsdir="$HOME/.emacs.d"
+frm='/bin/rm -rfv'
+e_trash="auto-save-list/ var/ .emacs.desktop .historian .smex-items history places recentf"
+
+if [ -d $emacsdir ]; then
+  cd $emacsdir
+  for i in $e_trash
+  do
+    if [ -e $emacsdir/$i ]; then
+      $frm $emacsdir/$i
+    fi
+  done
+else
+  echo "$emacsdir does not exist!"
+  exit 1
+fi
