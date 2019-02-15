@@ -19,4 +19,4 @@
   + This configuration was tested with Arch Linux and the latest AwesomeWM and URxvt
   + This repo is a collection, please take what you need after cloning
 
-  -MX Reimu
+  -Yuri MX

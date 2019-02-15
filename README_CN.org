@@ -15,4 +15,4 @@
   + 此配置在 Arch Linux 和最新的 AwesomeWM 及 URxvt 下测试通过
   + 这个 repo 是一个合集, 请克隆后各取所需. 本配置不提供安装脚本, 请按软件的官方说明复制相应文件到自己 home 目录下的相应位置即可
 
-    -MX Reimu
+    -Yuri MX
