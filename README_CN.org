@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+
+[[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
+[[https://gitee.com/re-mx/mxem][https://img.shields.io/badge/built%20with-mxem-f596aa.svg]]
+
+* 小魔仙的配置文件
+
+  这是我 =~/.config= 中的配置文件。
+
+  此 repo 包含 AwesomeWM，GTK和字体配置，以及一些全局的杂项配置（在 misc 中）。
+
+  *请注意:*
+
+  + 这是我个人的配置文件, 所以不保证其在其他环境下的可用性, 并且不接受除了 bug 修复之外的任何Pull Request
+  + 此配置在 Arch Linux 和最新的 AwesomeWM 及 URxvt 下测试通过
+  + 这个 repo 是一个合集, 请克隆后各取所需. 本配置不提供安装脚本, 请按软件的官方说明复制相应文件到自己 home 目录下的相应位置即可
+
+    -MX Reimu

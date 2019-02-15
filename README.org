@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+
+[[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
+[[https://gitee.com/re-mx/mxem][https://img.shields.io/badge/built%20with-mxem-f596aa.svg]]
+
+* A Lightweight AwesomeWM and URxvt Configuration
+
+  中文用户请戳[[https://github.com/re-mx/mxconfig/blob/master/README_CN.org][这里]]
+
+  This is my configurations in =~/.config=.
+
+  This repo contains AwesomeWM, Fonts and GTK configurations,
+  as well as some global miscellaneous configurations (in misc).
+
+  *Please note:*
+
+  + This is my personal configuration, so it's *WITHOUT ANY WARRANTY*
+  + I won't be accepting Pull Request (except bug fixes)
+  + This configuration was tested with Arch Linux and the latest AwesomeWM and URxvt
+  + This repo is a collection, please take what you need after cloning
+
+  -MX Reimu
