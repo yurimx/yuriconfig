@@ -3,7 +3,7 @@
 [[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
 [[https://gitee.com/yurimx/yurimacs][https://img.shields.io/badge/built%20with-yurimacs-f596aa.svg]]
 
-* A Lightweight AwesomeWM and URxvt Configuration
+* Yuri's Linux Configurations
 
   中文用户请戳[[https://github.com/yurimx/mxconfig/blob/master/README_CN.org][这里]]
 
